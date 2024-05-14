@@ -7,11 +7,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Dark%20Knight%20rises🦇;&font=Fira%20Code&center=true&width=440&height=45&color=4682B4&vCenter=true&size=22">
   </a>
 </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-khalid-atiya-633647270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-  
+<a href="https://www.linkedin.com/in/ahmed-khalid-atiya-633647270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a> 
 <a href="https://www.facebook.com/mahmoud.elframawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahmoud.elframawi" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/A7MED_KHALID/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mhmodfrmwi" height="30" width="40" /></a>
 </p>
@@ -38,10 +36,10 @@
 
 <p>&nbsp;</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedkhalid&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AhmedKhalid" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed5Atiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ahmed5Atiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmedkhalid&show_icons=true&locale=en&theme=tokyonight" alt="Ahmedkhalid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed5Atiya&show_icons=true&locale=en&theme=tokyonight" alt="Ahmed5Atiya" /></p>
 <!-- Profile Views Badge -->
-<a href="https://komarev.com/ghpvc/?username=Ahmedkhalid&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ahmedkhalid&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=Ahmed5Atiya&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Ahmed5Atiya&style=for-the-badge">
 </a>
